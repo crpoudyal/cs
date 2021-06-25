@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>funoverloading.funOverloading</StartupObject>
+    <StartupObject>oopclass.oop</StartupObject>
   </PropertyGroup>
 
 </Project>
