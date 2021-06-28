@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>Task.Employee</StartupObject>
+    <StartupObject>Inheritance.Inheritance</StartupObject>
   </PropertyGroup>
 
 </Project>

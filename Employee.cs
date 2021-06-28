@@ -6,7 +6,6 @@ namespace Task
     {
         public string firstName, lastName;
         public double salary;
-        public Employee() { }
         public Employee(string FirstName, string LastName, double Salary)
         {
             this.firstName = FirstName;
@@ -28,7 +27,6 @@ namespace Task
         {
             Employee emp = new Employee("ram", "bahadur", 20000);
             emp.ShowFullName();
-            emp.IncrementSalary(5000);
             emp.firstName = "hari";
             emp.lastName = "bahadur";
             emp.salary = emp.IncrementSalary(5000);
