@@ -1,3 +1,6 @@
+.vscode
+*.csproj
+.DS_Store
 *.suo
 *.user
 _ReSharper.*
