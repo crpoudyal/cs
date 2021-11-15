@@ -26,7 +26,7 @@ namespace Interface
             Console.WriteLine("drawing first rectangle...");
         }
     }
-    public class Interface
+    public class intf
     {
         public static void Main(string[] args)
         {
