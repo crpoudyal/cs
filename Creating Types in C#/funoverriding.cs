@@ -9,6 +9,7 @@ namespace CreatingTypesInCsharp
         {
             Console.WriteLine("I am Parent method");
         }
+
     }
 
     class funoverloading : parent
@@ -27,3 +28,6 @@ namespace CreatingTypesInCsharp
         }
     }
 }
+
+
+// Virtual method can be redefine in derived class.
