@@ -18,7 +18,7 @@ namespace AdvanceCsharp
         static void Main()
         {
             GenericMethod gm = new GenericMethod();
-            gm.sub<int>(25.90, 63);
+            gm.sub<int>(25, 63);
 
         }
 
